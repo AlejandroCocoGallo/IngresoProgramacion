@@ -9,7 +9,7 @@ function inicio()
 
 function SegundosEnElAire() {
 
-    alert("Bienvenido a la UTN FRA");
+    alert("Bienvenido a la UTN FRA - \nIntervalo: " + miIntervalo);
 
 }//FIN DE LA FUNCIÓN SegundosEnElAire
 

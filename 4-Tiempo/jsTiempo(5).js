@@ -18,6 +18,6 @@ function SegundosEnElAire() {
 function fin()
 {
 	alert("function fin.");
-	clearTimeout(miIntervalo);
+	clearTimeout(miTemporizador);
 
 }//FIN DE LA FUNCIÓN fin

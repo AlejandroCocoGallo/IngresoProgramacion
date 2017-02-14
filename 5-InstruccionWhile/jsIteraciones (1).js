@@ -1,6 +1,17 @@
 function Mostrar()
 {
-	alert('iteración while');
+	var cuenta =0;
+
+	while(cuenta < 10)
+	{
+		cuenta++;
+		alert('iteración while nro:' + cuenta);
+	}
+
+
+
+	
+
 
 
 }//FIN DE LA FUNCIÓN

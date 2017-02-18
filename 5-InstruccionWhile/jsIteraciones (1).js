@@ -8,10 +8,4 @@ function Mostrar()
 		alert('iteración while nro:' + cuenta);
 	}
 
-
-
-	
-
-
-
 }//FIN DE LA FUNCIÓN
